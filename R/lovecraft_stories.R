@@ -192,3 +192,226 @@
 #' @source <https://www.gutenberg.org/ebooks/73177>
 #' @format A character vector with 339 elements
 "air"
+
+
+
+#' The text of H.P. Lovecraft's "The Alchemist"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Alchemist".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/a.aspx>
+#' @format A character vector with 223 elements
+"alchemist"
+
+
+
+#' The text of H.P. Lovecraft's "Azathoth"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "Azathoth".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/az.aspx>
+#' @format A character vector with 34 elements
+"azathoth"
+
+
+
+#' The text of H.P. Lovecraft's "The Beast in the Cave"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Beast in the Cave".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/bc.aspx>
+#' @format A character vector with 153 elements
+"beast_cave"
+
+
+#' The text of H.P. Lovecraft's "Beyond the Wall of Sleep"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "Beyond the Wall of Sleep".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/bws.aspx>
+#' @format A character vector with 274 elements
+"wall_sleep"
+
+
+
+#' The text of H.P. Lovecraft's "The Book"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Book".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/b.aspx>
+#' @format A character vector with 75 elements
+"book"
+
+
+#' The text of H.P. Lovecraft's "The Cats of Ulthar"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Cats of Ulthar".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/cu.aspx>
+#' @format A character vector with 82 elements
+"cats"
+
+
+#' The text of H.P. Lovecraft's "Celephaïs"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "Celephaïs".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/c.aspx>
+#' @format A character vector with 153 elements
+"celephais"
+
+#' The text of H.P. Lovecraft's "Dagon"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "Dagon".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/d.aspx>
+#' @format A character vector with 133 elements
+"dagon"
+
+#' The text of H.P. Lovecraft's "The Descendant"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Descendant".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/de.aspx>
+#' @format A character vector with 92 elements
+"descendant"
+
+#' The text of H.P. Lovecraft's "The Doom That Came to Sarnath"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Doom That Came to Sarnath".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/ds.aspx>
+#' @format A character vector with 160 elements
+"doom"
+
+#' The text of H.P. Lovecraft's "The Dream-Quest of Unknown Kadath"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Dream-Quest of Unknown Kadath".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/dq.aspx>
+#' @format A character vector with 2483 elements
+"unknown_kadath"
+
+#' The text of H.P. Lovecraft's "Herbert West—Reanimator"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "Herbert West—Reanimator".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/hwr.aspx>
+#' @format A character vector with 739 elements
+"reanimator"
+
+#' The text of H.P. Lovecraft's "The Hound"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Hound".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/h.aspx>
+#' @format A character vector with 189 elements
+"hound"
+
+#' The text of H.P. Lovecraft's "The Music of Erich Zann"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Music of Erich Zann".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/mez.aspx>
+#' @format A character vector with 198 elements
+"erich_zann"
+
+
+#' The text of H.P. Lovecraft's "The Nameless City"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Nameless City".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/nc.aspx>
+#' @format A character vector with 299 elements
+"city"
+
+#' The text of H.P. Lovecraft's "The Outsider"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Outsider".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/o.aspx>
+#' @format A character vector with 211 elements
+"outsider"
+
+
+#' The text of H.P. Lovecraft's "The Shadow out of Time"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Shadow out of Time".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/sot.aspx>
+#' @format A character vector with 1528 elements
+"shadow_time"
+
+
+#' The text of H.P. Lovecraft's "The Temple"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Temple".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/te.aspx>
+#' @format A character vector with 319 elements
+"temple"
+
+#' The text of H.P. Lovecraft's "The Dreams in the Witch House"
+#'
+#' A dataset containing the full text of H.P. Lovecraft's
+#' "The Dreams in the Witch House".
+#' The text is provided as a character vector, with each element
+#' representing a chunk of the full text.
+#'
+#' @source <https://www.hplovecraft.com/writings/texts/fiction/dwh.aspx>
+#' @format A character vector with 892 elements
+"witch_house"
